@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "shopstart",
+            "database": "${workspaceFolder:hakaton}/shop/db.sqlite3"
+        }
+    ]
+}
