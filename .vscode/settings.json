@@ -6,5 +6,6 @@
             "name": "shopstart",
             "database": "${workspaceFolder:hakaton}/shop/db.sqlite3"
         }
-    ]
+    ],
+    "sqltools.useNodeRuntime": true
 }
